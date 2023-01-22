@@ -2,6 +2,6 @@ footer p:last-of-type {
     visibility: hidden;
 }
 
-li ul li:first-of-type {
+nav li ul li:first-of-type {
     display: none;
 }
