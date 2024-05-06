@@ -1,7 +1,0 @@
-footer p:last-of-type {
-    visibility: hidden;
-}
-
-nav li ul li:first-of-type {
-    display: none;
-}
